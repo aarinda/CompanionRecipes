@@ -50,7 +50,7 @@ fun Header() {
                 )
             }
             Image(
-                painterResource(R.drawable.profile_image),
+                painterResource(R.drawable.profile_pic),
                 contentDescription = "profile_image",
                 modifier = Modifier
                     .size(54.dp)
